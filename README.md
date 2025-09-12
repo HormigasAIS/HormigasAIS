@@ -20,3 +20,18 @@ Este repositorio funciona como **puerta de entrada** a la organización [Hormiga
 
 ---
 ✨ Fundado y administrado por [Thrumanshow](https://github.com/Thrumanshow)
+
+---
+
+## 🌟 Descubre y colabora
+
+## 🚀 HormigasAIS: un ecosistema en movimiento
+
+Hay ideas que no se ven, pero se sienten.  
+HormigasAIS conecta **automatización, datos e inteligencia artificial** en formas que sorprenden y generan curiosidad.  
+
+- Participa en proyectos que rompen esquemas  
+- Explora caminos donde la tecnología y la creatividad se encuentran  
+- Observa cómo pequeñas acciones crean ecosistemas que inspiran  
+
+> Sumarte aquí es más que colaborar: es **descubrir lo inesperado y ser testigo de algo que despierta admiración**.
