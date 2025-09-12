@@ -1,0 +1,47 @@
+project: "Marketing de HormigasAIS"
+company: "HormigasAIS S.A."
+
+applications:
+  - "HormigasAIS App"
+  - "HormigasAIS Web"
+  - "HormigasAIS Platform"
+
+integrations:
+  - "GitHub"
+  - "Slack"
+  - "Trello"
+  - "HubSpot"
+  - "WordPress"
+  - "Asana"
+  - "Microsoft Family Safety"
+  - "Bitdefender"
+  - "VPN"
+
+linked_emails:
+  - "chrisquionez@hotmail.com"
+  - "chrisquionez@outlook.com"
+  - "chrisquionezartista@outlook.com"
+  - "chrisquionez354@gmail.com"
+  - "juanlopez59803@gmail.com"
+
+details:
+  repositories:
+    - name: "heroku-wp"
+      description: "Configuración inicial para despliegue de WordPress en Heroku"
+      status: "Deprecated"
+      instructions:
+        - "Clonar el repositorio"
+        - "Iniciar sesión en Heroku CLI"
+        - "Crear una nueva aplicación en Heroku"
+        - "Agregar Heroku como remoto (git remote add)"
+        - "Realizar push al remoto de Heroku"
+        - "Verificar despliegue en navegador"
+    - name: "HormigasAIS"
+      description: "Repositorio principal del ecosistema HormigasAIS"
+      status: "Active"
+
+  bots:
+    - name: "customer-support-bot"
+      purpose: "Automatización de respuestas y soporte a clientes"
+    - name: "social-media-bot"
+      purpose: "Gestión, análisis y programación en redes sociales"
