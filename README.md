@@ -9,7 +9,7 @@ Bienvenido al repositorio principal de **HormigasAIS**, un ecosistema que conect
 - 🌐 Comunidad digital  
 
 ## Contenido
-- [config.yaml](./config.yaml) → Configuración global del ecosistema  
+- [config/config.yaml](./config/config.yaml) → Configuración global del ecosistema → Configuración global del ecosistema  
 - [docs/](./docs) → Documentación técnica y estratégica  
 - [issues](../../issues) → Reportar errores o sugerencias  
 
