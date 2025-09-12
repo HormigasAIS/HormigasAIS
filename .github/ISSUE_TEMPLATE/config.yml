@@ -1,0 +1,70 @@
+# .github/ISSUE_TEMPLATE/config.yml
+blank_issues_enabled: false
+contact_links:
+  - name: Soporte HormigasAIS
+    url: https://github.com/HormigasAIS/HormigasAIS/issues
+    about: Si tienes dudas o necesitas ayuda, por favor usa esta opción.
+    
+# Plantillas disponibles
+issue_templates:
+  - name: Bug Report
+    description: Reporta un error o fallo en HormigasAIS
+    labels: ["bug"]
+    body: |
+      ## Descripción
+      Describe claramente el problema que encontraste.
+
+      ## Pasos para reproducir
+      1. 
+      2. 
+      3. 
+
+      ## Resultado esperado
+      Describe qué esperabas que sucediera.
+
+      ## Resultado obtenido
+      Describe lo que realmente sucedió.
+
+      ## Información adicional
+      - Versión afectada:
+      - Sistema operativo:
+      - Capturas de pantalla/logs (si aplica):
+
+  - name: Feature Request
+    description: Sugiere una nueva función o mejora para HormigasAIS
+    labels: ["enhancement"]
+    body: |
+      ## Descripción
+      Describe la función o mejora que propones.
+
+      ## Beneficio esperado
+      Explica cómo esto mejora el ecosistema HormigasAIS.
+
+      ## Detalles adicionales
+      Proporciona cualquier detalle adicional, ejemplos o referencias.
+
+  - name: Documentation
+    description: Sugiere mejoras o corrige documentación
+    labels: ["documentation"]
+    body: |
+      ## Descripción
+      Indica la sección/documento afectado y el problema encontrado.
+
+      ## Sugerencia de mejora
+      Describe cómo se podría mejorar o corregir la documentación.
+
+      ## Información adicional
+      Adjunta capturas o ejemplos si aplica.
+
+  - name: Question / Support
+    description: Haz una pregunta o solicita soporte
+    labels: ["question"]
+    body: |
+      ## Pregunta
+      Describe tu duda o problema.
+
+      ## Contexto
+      Proporciona contexto adicional para entender mejor tu consulta.
+
+      ## Información adicional
+      Incluye links, capturas o ejemplos si aplica.
